@@ -1,4 +1,4 @@
-# Laptop Price Prediction Repository
+# Laptop Price Prediction Using various ML Algorithms
 
 ## Overview
 
